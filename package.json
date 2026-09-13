@@ -1,7 +1,7 @@
 {
   "name": "railway-trial-benchmark",
-  "version": "1.0.0",
-  "description": "Single-file resource benchmark for testing trial VPS credit consumption",
+  "version": "1.2.0",
+  "description": "Single-file resource benchmark with a closed-loop controller that self-corrects to an 85-90% RAM/CPU band on any VPS size, to measure credit consumption",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
